@@ -15,6 +15,6 @@ Hi, I'm Luciama, and my nickname is Luna 🌙
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev=github-readme-stats" />
 </a>
 <a href="https://github.com/luna-alves-dev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&repo=exercicios-trybe" />
+  <img height="180 cm" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=exercicios-trybe" />
 </a>
     </div>
