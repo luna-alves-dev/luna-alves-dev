@@ -10,9 +10,5 @@ Hi, I'm Luciama, and my nickname is Luna 🌙
 - 😄 Pronouns: Her/She/Dr
 
 
-<div> 
-<a href="https://github.com/luna-alves-dev/github-readme-stats">
-<a href="https://github.com/luna-alves-dev/convoychat">
-  <img height="130 cm" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=exercicios-trybe" />
-</a>
-    </div>
+<div>
+  <img height="130 cm" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=exercicios-trybe" /></div>
