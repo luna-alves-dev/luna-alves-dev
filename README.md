@@ -9,6 +9,5 @@ Hi, I'm Luciama, and my nickname is Luna 🌙
 - 📫 How to reach me: luna.alves.dev@icloud.com
 - 😄 Pronouns: Her/She/Dr
 
-
 <div>
 <img height="130 cm" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=trybe-school-exercises" /></div>
