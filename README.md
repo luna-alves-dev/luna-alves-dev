@@ -11,4 +11,4 @@ Hi, I'm Luciama, and my nickname is Luna 🌙
 
 
 <div>
-  <img height="130 cm" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=exercicios-trybe" /></div>
+  <img height="130 cm" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&layout-compact&langs_count=16&theme=dracula&repo=trybe-school-exercises /></div>
