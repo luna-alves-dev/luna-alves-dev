@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Luciama, and my nickname is Luna 🌙
 
-<!--
-**luna-alves-dev/luna-alves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇷 I'm brasilian.
+- 🔭 I’m currently studing at Trybe.
+- 🌱 I’m currently learning Fundamentals of Web Development.
+- 👩‍🎓 I have experience in health research. I have a Master's and Doctoral degree in Health Science, and a Post-Doctoral (PhD) study involving big data.
+- 👯 I’m looking to collaborate with my collegs and you, if I abble to.
+- 💬 Ask me about what you want! I love share opinions and things that make life be great!
+- 📫 How to reach me: luna.alves.dev@icloud.com
+- 😄 Pronouns: Her/She/Dr
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+<a href="https://github.com/luna-alves-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev=github-readme-stats" />
+</a>
+<a href="https://github.com/luna-alves-dev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luna-alves-dev&repo=convoychat" />
+</a>
+    </div>
