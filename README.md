@@ -1,4 +1,4 @@
-Hi, I'm Luciama, and my nickname is Luna 🌙
+Hi, I'm Luciana, and my nickname is Luna 🌙
 
 - 🇧🇷 I'm brasilian.
 - 🔭 I’m currently studing at Trybe.
