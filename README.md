@@ -22,3 +22,7 @@ I’m an entusiastic person who loves learn about technology 💻, love plants �
 ### Mental Map for beguinners 
 - [Some GitHub steps to create and manage reposiories and branch's (Portuguese content)](https://miro.com/app/board/uXjVOAZRdUQ=/?share_link_id=637462461856)
 - [Basic content of Unix & Bash (Portuguese content)](https://miro.com/app/board/uXjVO_iO2zM=/?share_link_id=540650843555) 
+
+
+![snake gif](https://github.com/luna-alves-dev/luna-alves-dev/blob/output/github-contribution-grid-snake.gif)
+
