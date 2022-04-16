@@ -1,4 +1,4 @@
-Hi, I'm Luciana, and my nickname is Luna 🌙
+### Hi, I'm Luciana, and my nickname is Luna 🌙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luna.alves.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvesdev)
@@ -17,3 +17,10 @@ I’m an entusiastic person who loves learn about technology 💻, love plants �
 <br/>
 <br/>
 📫 How to reach me: luna.alves.dev@icloud.com
+<br/>
+<br/>
+
+### Mental Map for beguinners 
+
+- [Some GitHub steps to create and manage reposiories and branch's](https://miro.com/app/board/uXjVOAZRdUQ=/?share_link_id=637462461856)
+- [Basic content of Unix & Bash](https://miro.com/app/board/uXjVO_iO2zM=/?share_link_id=540650843555) 
