@@ -18,9 +18,7 @@ I’m an entusiastic person who loves learn about technology 💻, love plants �
 <br/>
 📫 How to reach me: luna.alves.dev@icloud.com
 <br/>
-<br/>
 
 ### Mental Map for beguinners 
-
 - [Some GitHub steps to create and manage reposiories and branch's](https://miro.com/app/board/uXjVOAZRdUQ=/?share_link_id=637462461856)
 - [Basic content of Unix & Bash](https://miro.com/app/board/uXjVO_iO2zM=/?share_link_id=540650843555) 
