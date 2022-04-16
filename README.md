@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvesdev)
 
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-alves-dev&show_icons=true&theme=dracula)
-
+	
 ### Technologies in my daily life
 <div style="display: inline_block"><br/>
   <image alineg=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,4 +25,5 @@ I’m an entusiastic person who loves learn about technology 💻, love plants �
 
 ### Snake eating my contribution graph 🐍
 ![snake svg](https://github.com/luna-alves-dev/luna-alves-dev/blob/output/github-contribution-grid-snake.svg)
+
 
