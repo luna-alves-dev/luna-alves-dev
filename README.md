@@ -12,8 +12,7 @@
   <image alineg=center alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
   <br/>
-🇧🇷 I'm brasilian and I'm currently studing 👩‍🎓 at Trybe. For now I'm learning Fundamentals of Web Development. I'm currently in an career transition. I have experience in health research. I have a Master's and Doctoral degree in Health Science, and a Post-Doctoral (PhD) study involving Big Data.
-I’m an entusiastic person who loves learn about technology 💻, love plants 🌵🌿, to read 📖, and like to share moments, knowledge and i have an great sense of humanity.
+🇧🇷 I'm Brazilian and I'm currently studing 👩‍🎓 at Trybe. I'm learning the Fundamentals of Web Development at the moment. I'm currently in an career transition. I am experienced in health research, hold a Master's and Doctorate degree in Health Science, and a Post-Doctorate (PhD) study involving Big Data. I’m an enthusiastic person who loves learning about technology 💻, I love plants 🌵🌿, reading 📖, enjoy sharing moments and, I have a great sense of humanity.
 <br/>
 <br/>
 📫 How to reach me: luna.alves.dev@icloud.com
