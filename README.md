@@ -1,7 +1,7 @@
 ### Hi, I'm Luciana, and my nickname is Luna 🌙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luna.alves.dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvesdev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luna-alves-dev)
 
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-alves-dev&show_icons=true&theme=dracula)
 	
