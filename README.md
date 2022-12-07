@@ -11,6 +11,7 @@
   <image alineg=center alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <image alineg=center alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <image alineg=center alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <image alineg=center alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
   <br/>
 🇧🇷 I'm Brazilian and I'm currently studing 👩‍🎓 at Trybe. I am currently learning Frontend Development, and have completed Fundamentals of Web Development. I'm currently in an career transition. I am experienced in health research, hold a Master's and Doctorate degree in Health Science, and a Post-Doctorate (PhD) study involving Big Data. I’m an enthusiastic person who loves learning about technology 💻, I love plants 🌵🌿, reading 📖, enjoy sharing moments and, I have a great sense of humanity.
